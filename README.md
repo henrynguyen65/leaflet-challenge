@@ -1,1 +1,1 @@
-# References from stackoverflow forum and class acitivities. Leaflet pluggin
+References from stackoverflow forum and class acitivities. Leaflet pluggin
